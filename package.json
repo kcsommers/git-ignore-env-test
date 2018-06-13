@@ -1,0 +1,24 @@
+{
+  "name": "git-ignore-env-test",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcsommers/git-ignore-env-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcsommers/git-ignore-env-test/issues"
+  },
+  "homepage": "https://github.com/kcsommers/git-ignore-env-test#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
